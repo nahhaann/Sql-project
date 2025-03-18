@@ -28,4 +28,8 @@ Each table has a primary key to ensure data uniqueness.
 
 -Optimize queries for faster data retrieval in large databases.
 
+## Conclusion
+
+This SQL project provides a structured database for managing a library system efficiently. It organizes books, customers, employees, and transactions while ensuring data consistency. With future improvements like relationships, automation, and optimization, the system can be enhanced for better performance and usability.
+
 # Sql-project
